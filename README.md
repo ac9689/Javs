@@ -1,2 +1,0 @@
-# Javs
-my java practice
